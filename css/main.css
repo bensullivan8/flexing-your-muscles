@@ -54,7 +54,7 @@ img {
   display: flex;
 }
 
-.social li {
+.social > li {
   margin: 0 .5em;
   width: 3em;
 }
